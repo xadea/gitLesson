@@ -1,4 +1,5 @@
 # Git tutorial
 
-*git init* - добавление репозитория
+*git init* git - добавление репозитория
 
+any new line
