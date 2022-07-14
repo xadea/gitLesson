@@ -2,3 +2,4 @@
 
 *git init* - добавление репозитория
 
+Smthing changes
